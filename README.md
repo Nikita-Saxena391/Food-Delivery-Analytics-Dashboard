@@ -24,5 +24,18 @@ An interactive Power BI dashboard built to analyze food delivery business perfor
 
 ## Dashboard Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4127f685-4c33-4286-9c87-a6663f986aaa" />
+### Executive Overview
+![Executive Overview](screenshots/Executive%20Overview.jpeg)
+
+### Customer Analytics
+![Customer Analytics](screenshots/Customer%20Analytics.jpeg)
+
+### Restaurant Performance
+![Restaurant Performance](screenshots/Restaurant%20Performance.jpeg)
+
+### Delivery & Operations
+![Delivery & Operations](screenshots/Delivery%20and%20Operations.jpeg)
+
+### Advanced Insights
+![Advanced Insights](screenshots/Advanced%20Insights.jpeg)
 
